@@ -1,0 +1,2 @@
+RAG stands for Retrieval-Augmented Generation.
+RAG retrieves relevant information from documents before generating an answer.
