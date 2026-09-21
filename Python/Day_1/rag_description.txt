@@ -1,0 +1,5 @@
+RAG stands for Retrieval-Augmented Generation.
+
+RAG allows an AI system to retrieve relevant information from external documents before generating an answer.
+
+It helps the AI provide answers based on specific and up-to-date information.
