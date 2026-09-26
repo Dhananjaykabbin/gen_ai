@@ -1,7 +1,9 @@
-from calculator import add, subtract
+from utils.text_utils import clean_text, count_words
 
-result1= add(10, 20)
-result2= subtract(20, 10)
+text = "  Generative AI is powerful  "
 
-print("Addition Result:", result1)
-print("Subtraction Result:", result2)
+cleaned = clean_text(text)
+words = count_words(cleaned)
+
+print("Cleaned Text:", cleaned)
+print("Word Count:", words)
